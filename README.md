@@ -38,7 +38,7 @@ npm install
 <p>3. Start the Server:</p>
 
 ```
-node server.js
+node app.js
 ```
 
   
