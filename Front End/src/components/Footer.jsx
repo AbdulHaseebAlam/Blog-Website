@@ -20,8 +20,8 @@ export default function Footer() {
 
                     <p className={style.footerLinks}>
                         <Link className={style.link1} to={'/'}>Home</Link>
-                        <Link to={'/about'}>About US</Link>
-                        <Link to={'/contact'}>Contact US</Link>
+                        <Link to={'/blogs'}>Blogs</Link>
+                        <Link to={'/about'}>About</Link>
                         <Link to={'/compose'}>Create A Post</Link>
                     </p>
 
