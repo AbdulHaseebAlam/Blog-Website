@@ -44,14 +44,14 @@ cd "Front End"
 npm install
 ```
 
-<p>3. Install dependencies (Back End):</p>
+<p>4. Install dependencies (Back End):</p>
 
 ```
 cd "Back End"
 npm install
 ```
 
-<p>3. Run the application:</p>
+<p>5. Run the application:</p>
 
 ```
 npm start
@@ -59,7 +59,7 @@ npm start
 
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+Here are some of the project's best features:
 
 *   User Authentication: Users can sign up for an account and log in securely.
 *   Create Posts: Authenticated users can create their blog posts.
