@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Write-Blog</h1>
 
-<p align="center"><img src="https://socialify.git.ci/AbdulHaseebAlam/Write-Blog/image?description=1&amp;font=Bitter&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/AbdulHaseebAlam/Write-Blog/image?description=1&amp;descriptionEditable=Welcome%20to%20Write%20Blog!%20It%20is%20a%20full-stack%20web%20application%20built%20using%20the%20MERN%20(MongoDB%20Express.js%20React.js%20Node.js)%20stack.&amp;font=Inter&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
 
 <p id="description">Write-Blog is a full-stack web application built using the MERN (MongoDB Express.js React.js Node.js) stack. It provides a platform for users to create their accounts publish their blog posts and explore posts created by other users.</p>
 
