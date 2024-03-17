@@ -1,0 +1,81 @@
+.mainContainer {
+  height: 100%;
+  width: 100%;
+}
+
+.mainContainer .container {
+  display: flex;
+  flex-direction: column;
+  margin: 50px 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainContainer .container .image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 60vh;
+  background-image: url("../../assets/main page2.jpg");
+  background-size: cover;
+  border-radius: 6px;
+}
+
+span.eyecatchTitle {
+  padding: 3px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+.mainContainer .container .content {
+  margin: 50px 0px;
+  text-align: center;
+}
+
+.mainContainer .container .content .aboutUS {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 20px 0px;
+  padding: 70px 40px;
+  justify-items: center;
+  align-items: center;
+  text-align: left;
+  border-radius: 6px;
+  background-color: rgb(39, 38, 38);
+  color: white;
+}
+
+.mainContainer .container .content .aboutUS:hover {
+  border: 1px solid yellow;
+  transition: 0.5s;
+  color: yellow;
+}
+
+.mainContainer .container .content .aboutUS ul li {
+  list-style: disc;
+}
+
+.mainContainer .container .content .aboutUS .contactUS p {
+  margin: 5px;
+}
+
+.mainContainer .container .content .aboutUS .contactIcons a{
+    display: inline-block;
+    width: 30px;
+    height: 35px;
+    background-color: #33383b;
+    border-radius: 2px;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+    margin: 0px 10px;
+    transition: all 0.25s;
+}
+
+.mainContainer .container .content .aboutUS .contactIcons a:hover{
+  transform: scale(1.4);
+  -webkit-transform: scale(1.4);
+  color: yellow;
+}

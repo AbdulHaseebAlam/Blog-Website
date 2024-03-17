@@ -1,0 +1,39 @@
+.homePage {
+  min-height: 90vh;
+  /* background-color: darkgray; */
+  /* background: linear-gradient(#dddddd, rgb(121 120 120)); */
+  background-image: url("..//assets//main page2.jpg");
+  background-size: cover;
+  margin: auto;
+  padding: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  height: 400px;
+  width: 100%;
+  border-radius: 10px;
+  background-size: 1500px 600px;
+  /* background: linear-gradient(yellow, rgb(226, 226, 59)); */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* box-shadow: 0px 0px 15px 5px darkgray; */
+}
+
+span.eyecatchTitle {
+  padding: 3px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+.paragraph {
+  font-weight: 500;
+  text-align: center;
+  padding: 10px 100px;
+  -webkit-text-stroke-width: px;
+  -webkit-text-stroke-color: yellow;
+}

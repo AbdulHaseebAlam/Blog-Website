@@ -1,0 +1,50 @@
+.blogsMain {
+  margin: 30px 80px;
+  height: 100%;
+}
+
+.blogsMain h1 {
+  text-align: center;
+  margin: 30px;
+}
+
+.blogsMain .blog {
+  display: grid;
+  width: 100%;
+  height: 20%;
+  grid-template-columns: 360px 830px;
+  column-gap: 10px;
+  margin: 30px 0px;
+}
+
+.blogsMain .blog:hover .image img {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1.1);
+  transition: 0.5s ease;
+  overflow: hidden;
+}
+
+.blogsMain .blog .image {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+
+.blog .desc {
+  padding: 10px;
+}
+
+.title h2 {
+  display: block;
+  font-size: 1.2em;
+  font-weight: 500;
+}
+
+.blog .content .title p i {
+  margin-right: 20px;
+}
+
+.blog .content .summary {
+  padding-top: 10px;
+}

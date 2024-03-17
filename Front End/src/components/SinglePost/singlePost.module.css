@@ -1,0 +1,16 @@
+.mainContainer{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    margin: 80px 120px;
+    padding: 0px 130px;
+}
+
+/* .container img{
+    width: 70vw;
+} */
+
+.container .content{
+    margin: 30px 0px;
+}

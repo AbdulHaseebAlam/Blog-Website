@@ -1,0 +1,59 @@
+.container {
+  text-align: center;
+  margin: 30px 80px;
+  height: 100%;
+  padding: 20px;
+  /* background-color: bisque; */
+}
+
+.container form {
+  width: 100%;
+  /* margin: 20px 80px; */
+  padding: 10px;
+  outline-color: black;
+}
+
+.container form input {
+  border-radius: 3px;
+}
+
+.container form input[type="text"] {
+  margin: 10px;
+  padding: 5px;
+  height: 40px;
+  width: 100%;
+  border: 1px solid rgb(39, 38, 38);
+}
+
+.container form input[type="text"]:focus {
+  outline-color: yellow;
+}
+
+.container form input[type="file"] {
+  padding: 4px;
+  margin: 10px;
+  /* margin-right: 38%; */
+}
+
+button.button {
+  color: #fff;
+  background: rgb(39, 38, 38);
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-top: 1.7rem;
+  cursor: pointer;
+  transition: 0.4s;
+  height: 40px;
+  padding: 0 15px;
+  margin-bottom: 1.3rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  outline: none;
+}
+
+button.button:hover {
+  border: 1px solid black;
+  background-color: yellow;
+  color: black;
+}
