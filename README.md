@@ -18,7 +18,7 @@
 <img src="https://github.com/AbdulHaseebAlam/Write-Blog/blob/master/images/CreatePost.png?raw=true" alt="project-screenshot" width="100%" height="400/">
 
 <p>4. Login/Signup Page:</p>
-<img src="https://github.com/AbdulHaseebAlam/Write-Blog/blob/master/images/Login.png?raw=true" alt="project-screenshot" width="45%" height="400/">
+<img src="https://github.com/AbdulHaseebAlam/Write-Blog/blob/master/images/Login.png?raw=true" alt="project-screenshot" width="40%" height="400/">
 
 <img src="https://github.com/AbdulHaseebAlam/Write-Blog/blob/master/images/Signup.png?raw=true" alt="project-screenshot" width="40%" height="400/">
 
